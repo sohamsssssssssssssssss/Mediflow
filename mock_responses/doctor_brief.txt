@@ -1,0 +1,3 @@
+- 35yo M. Active meds: Crocin 650mg BID, Dolo 650mg PRN.
+- Recent activity: Rx from Dr. Anjali Mehta (Jul 8) for Crocin 650mg BID for fever; Lab panel ordered Jul 12 (CBC) by Dr. Mehta; Rx from Dr. Suresh Rao (Jul 15) for Dolo 650mg PRN for headache, follow-up Jul 29.
+- Flags: Duplicate ingredient — Crocin & Dolo 650 (both paracetamol).

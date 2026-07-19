@@ -1,0 +1,13 @@
+{
+  "document_type": "lab_report",
+  "date": "2026-07-20",
+  "doctor_name": "Dr. Suresh Rao",
+  "diagnosis_mentioned": "Follow-up check for headache",
+  "medications": [],
+  "tests_mentioned": [
+    "CBC",
+    "ESR"
+  ],
+  "follow_up_date": null,
+  "extraction_notes": "Document is clear and legible."
+}

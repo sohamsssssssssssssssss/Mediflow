@@ -1,0 +1,8 @@
+npm error code ENOENT
+npm error syscall open
+npm error path /Users/soham/hackatons /ai agentic hackaton v1/package.json
+npm error errno -2
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/Users/soham/hackatons /ai agentic hackaton v1/package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: /Users/soham/.npm/_logs/2026-07-19T08_48_27_775Z-debug-0.log

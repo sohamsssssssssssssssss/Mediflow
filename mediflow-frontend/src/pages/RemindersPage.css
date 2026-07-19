@@ -1,0 +1,109 @@
+.reminder-section {
+  margin-bottom: 2rem;
+}
+
+.reminder-section-title {
+  font-size: 0.8125rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+}
+
+.reminder-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.625rem;
+}
+
+.reminder-card {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.875rem 1rem;
+}
+
+.reminder-done {
+  opacity: 0.55;
+}
+
+.reminder-check input {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.check-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border: 2px solid var(--border-strong);
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  flex-shrink: 0;
+}
+
+.check-box svg {
+  width: 12px;
+  height: 12px;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+.reminder-check input:checked + .check-box {
+  background: var(--accent-blue);
+  border-color: var(--accent-blue);
+}
+
+.reminder-check input:checked + .check-box svg {
+  opacity: 1;
+  stroke: white;
+}
+
+.check-box-done {
+  background: var(--accent-green);
+  border-color: var(--accent-green);
+}
+
+.check-box-done svg {
+  opacity: 1;
+  stroke: white;
+}
+
+.reminder-icon {
+  flex-shrink: 0;
+  color: var(--accent-blue);
+  display: flex;
+}
+
+.reminder-icon-done {
+  color: var(--text-muted);
+}
+
+.reminder-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.125rem;
+  min-width: 0;
+}
+
+.reminder-title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.reminder-title-done {
+  text-decoration: line-through;
+  color: var(--text-muted);
+}
+
+.reminder-due {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}

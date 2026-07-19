@@ -1,0 +1,18 @@
+{
+  "document_type": "prescription",
+  "date": "2026-07-08",
+  "doctor_name": "Dr. Anjali Mehta",
+  "diagnosis_mentioned": "Fever (Febrile Illness, Acute onset)",
+  "medications": [
+    {
+      "raw_text": "Tab. Crocin 650mg",
+      "brand_name": "Crocin",
+      "dosage": "650mg",
+      "frequency": "Twice Daily (Morning & Evening)",
+      "confidence": "green"
+    }
+  ],
+  "tests_mentioned": [],
+  "follow_up_date": null,
+  "extraction_notes": "Patient name and age fields are blank on the form."
+}

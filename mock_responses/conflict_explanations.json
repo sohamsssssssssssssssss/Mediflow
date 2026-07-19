@@ -1,0 +1,6 @@
+{
+  "duplicate_ingredient_paracetamol": "Dr. Anjali Mehta prescribed Crocin 650mg on July 8 and Dr. Suresh Rao prescribed Dolo 650mg on July 15 — both contain paracetamol. It's worth confirming with your doctor whether you need both, as taking them together may lead to excess intake of paracetamol.",
+  "same_drug_class_beta_blocker": "Dr. Anjali Mehta prescribed Atenolol on July 8 and Dr. Suresh Rao prescribed Metoprolol on July 15 — both are beta-blockers used for similar purposes, so it's worth confirming with your doctor whether you need both.",
+  "duplicate_ingredient_metformin": "Dr. Sharma prescribed Glycomet on July 20, which contains metformin. If any prior prescription also included metformin or a related biguanide, please verify with your doctor to avoid duplication.",
+  "same_drug_class_ppi": "Both Pantop (pantoprazole) and Omeprazole belong to the proton-pump inhibitor class. If both appear in your timeline, confirm with your doctor whether both are necessary."
+}

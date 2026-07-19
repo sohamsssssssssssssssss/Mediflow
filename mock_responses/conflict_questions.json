@@ -1,0 +1,22 @@
+{
+  "duplicate_ingredient_paracetamol": [
+    "Dr. Mehta prescribed Crocin and Dr. Rao prescribed Dolo — both contain paracetamol. Do I need both of these?",
+    "If I take both Crocin and Dolo together, is that too much paracetamol in a day?",
+    "Should I let Dr. Rao know that Dr. Mehta already prescribed Crocin, or should I let Dr. Mehta know about Dolo?"
+  ],
+  "same_drug_class_beta_blocker": [
+    "Dr. Mehta prescribed Atenolol and Dr. Rao prescribed Metoprolol — both are beta-blockers. Do I need both?",
+    "Could taking two different beta-blockers cause my heart rate or blood pressure to drop too low?",
+    "Should I ask one of my doctors to coordinate with the other about which beta-blocker is right for me?"
+  ],
+  "duplicate_ingredient_metformin": [
+    "Both prescriptions contain metformin (Glycomet and another). Is this meant to be a combined dose?",
+    "If I'm already taking metformin from another doctor, should I tell the new doctor before starting this one?",
+    "What's the maximum daily dose of metformin I should be taking?"
+  ],
+  "same_drug_class_ppi": [
+    "Pantop and Omeprazole are both proton-pump inhibitors. Do I need to take both, or just one?",
+    "Could taking two different PPIs increase the risk of side effects like low magnesium or B12 deficiency?",
+    "Should I check with my doctor before combining these two acid reducers?"
+  ]
+}

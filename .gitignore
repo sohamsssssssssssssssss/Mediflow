@@ -1,0 +1,19 @@
+# Environment variables (contains API keys)
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+
+# Build output
+dist/

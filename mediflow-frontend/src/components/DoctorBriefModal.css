@@ -1,0 +1,94 @@
+/* ── Brief Modal ── */
+.brief-modal {
+  max-width: 520px;
+  padding: 1.75rem;
+}
+
+.brief-modal-header {
+  text-align: center;
+  margin-bottom: 1.25rem;
+  padding-right: 2rem;
+}
+
+.brief-modal-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--accent-purple-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 0.75rem;
+}
+
+.brief-modal-icon svg {
+  width: 22px;
+  height: 22px;
+  color: var(--accent-purple);
+}
+
+.brief-modal-title {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 0.125rem;
+}
+
+.brief-modal-subtitle {
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+/* ── Loading ── */
+.brief-loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.875rem;
+  padding: 1.5rem 0;
+}
+
+.brief-loading .spinner {
+  width: 32px;
+  height: 32px;
+  border: 2.5px solid var(--border-subtle);
+  border-top-color: var(--accent-blue);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+
+.brief-loading p {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  margin: 0;
+}
+
+/* ── Content ── */
+.brief-content {
+  background: var(--bg-subtle);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+  font-family: var(--font-mono);
+  font-size: 0.875rem;
+  line-height: 1.7;
+  color: var(--text-primary);
+}
+
+.brief-line {
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* ── Actions ── */
+.brief-actions {
+  display: flex;
+  gap: 0.625rem;
+}
+
+.brief-actions .btn {
+  flex: 1;
+}
